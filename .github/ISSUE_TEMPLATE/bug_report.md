@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Actual Result**
 
 
-**Screenshots**
+**Attachments**
 
 
 **Smartphone (please complete the following information):**
